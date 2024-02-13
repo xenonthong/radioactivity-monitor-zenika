@@ -1,5 +1,7 @@
-namespace RadioactivityMonitor.Domains {
-    public interface ISensor{
+namespace RadioactivityMonitor.Domains
+{
+    public interface ISensor
+    {
         public double NextMeasure();
     } 
 }

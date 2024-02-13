@@ -1,4 +1,5 @@
-namespace RadioactivityMonitor.Domains {
+namespace RadioactivityMonitor.Domains
+{
     public interface IAlarm
     {
         public bool IsAlarmOn 

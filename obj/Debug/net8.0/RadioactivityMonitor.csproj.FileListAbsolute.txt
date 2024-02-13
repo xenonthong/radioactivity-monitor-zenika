@@ -194,3 +194,4 @@
 /Users/xenon/code/RadioactivityMonitor/RadioactivityMonitor/obj/Debug/net8.0/RadioactivityMonitor.pdb
 /Users/xenon/code/RadioactivityMonitor/RadioactivityMonitor/obj/Debug/net8.0/RadioactivityMonitor.genruntimeconfig.cache
 /Users/xenon/code/RadioactivityMonitor/RadioactivityMonitor/obj/Debug/net8.0/ref/RadioactivityMonitor.dll
+/Users/xenon/code/RadioactivityMonitor/RadioactivityMonitor/obj/Debug/net8.0/RadioactivityMonitor.sourcelink.json
